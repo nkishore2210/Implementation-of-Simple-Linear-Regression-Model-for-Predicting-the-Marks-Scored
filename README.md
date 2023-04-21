@@ -76,15 +76,25 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ```
 ## Output:
+
 ![image](https://user-images.githubusercontent.com/118707090/233581527-4c4191ea-b507-499e-8be3-9adc07cf373d.png)
+
 ![image](https://user-images.githubusercontent.com/118707090/233581586-c9e9af43-7b05-4b21-b91c-2d4276054293.png)
+
 ![image](https://user-images.githubusercontent.com/118707090/233581617-7dc11702-c93c-4b39-a201-ec3ac437b7cc.png)
+
 ![image](https://user-images.githubusercontent.com/118707090/233581657-e9b37243-1d7d-480f-9814-e24fa843b08f.png)
+
 ![image](https://user-images.githubusercontent.com/118707090/233581767-fe4b878a-3afa-407b-ab8b-b197b0f54622.png)
+
 ![image](https://user-images.githubusercontent.com/118707090/233581796-b781b978-4d0b-4fcd-a6b9-fdde253dce2c.png)
+
 ![image](https://user-images.githubusercontent.com/118707090/233581864-529eadf6-6672-435f-b6a2-c9093daa9fce.png)
+
 ![image](https://user-images.githubusercontent.com/118707090/233581895-eae1173d-aff3-4456-a12b-1b3650bca688.png)
+
 ![image](https://user-images.githubusercontent.com/118707090/233581919-00148f75-91c1-4cfb-ba8d-3d64415ae6fe.png)
+
 ![image](https://user-images.githubusercontent.com/118707090/233581953-f242001f-c008-49bd-89ba-ee0cbee80ad8.png)
 
 ## Result:
